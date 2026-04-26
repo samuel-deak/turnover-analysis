@@ -1,6 +1,8 @@
 # Análise de Turnover / Turnover Analysis
 ---------------------//------------------
+
 <div>
+
 Análise de dados feita com Python:
 Bibliotecas utilizadas:
 | Pandas | Tratamento dos dados
